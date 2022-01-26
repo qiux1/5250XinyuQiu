@@ -9,7 +9,6 @@
 
             <Label Text="Welcome to my Homework!"
                    FontSize="Large"/>
-          
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
